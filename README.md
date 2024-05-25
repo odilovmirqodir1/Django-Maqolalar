@@ -1,0 +1,2 @@
+# Django-Maqolalar
+Django-Maqolalar
